@@ -1,4 +1,4 @@
 ﻿Systemutil.Run"iexplore.exe","google.com"
 MSGbox"Demo"
-Msgbox"first demo"
+Msgbox"first demos"
 
